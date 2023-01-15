@@ -7,14 +7,14 @@ app = Flask(__name__)
 tasks = [
     {
         'id': 1,
-        'title': u'Be Glad. Be good, Be brave',
-        'description': u'If i were a neurosurgon and i announce that i had to leave my guests to go in',
+        'title': 'Be Glad. Be good, Be brave',
+        'description': 'If i were a neurosurgon and i announce that i had to leave my guests to go in',
         'done': False
     },
     {
         'id': 2,
-        'title': u'Remarkable Essay',
-        'description': u'While shailesh was eriting this book, He published a short, Remarkable essay',
+        'title': 'Remarkable Essay',
+        'description': 'While shailesh was eriting this book, He published a short, Remarkable essay',
         'done': False
     }
 ]
